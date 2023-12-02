@@ -5,8 +5,8 @@
 1. Clone the repository and use the 'npm install' command in terminal
 2. run the command 'npm start' in the terminal to start the app at port 3000.
 
-### Demo - Deployed over Netlify 
-[Deployed link](reeco-app-by-omkar.netlify.app)
+### Demo - Deployed 
+[Deployed link](https://reeco-delta.vercel.app/)
 
 ### APIs Used
 [Server Api created from Cyclic](https://ruby-cocoon-fez.cyclic.app)
